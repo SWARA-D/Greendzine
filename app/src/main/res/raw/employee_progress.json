@@ -1,0 +1,22 @@
+{
+  "progress": [
+    {
+      "EMP ID": "1",
+      "monday": 4,
+      "tuesday": 92,
+      "wednesday": 122,
+      "thursday": 93,
+      "friday": 89,
+      "saturday": 98
+    },
+    {
+      "EMP ID": "2",
+      "monday": 7,
+      "tuesday": 94,
+      "wednesday": 92,
+      "thursday": 58,
+      "friday": 98,
+      "saturday": 99
+    }
+  ]
+}
